@@ -15,7 +15,7 @@ Store Items: Parallel arrays hold the products (String), prices (double), and in
 
 Receipts: The transaction history is saved in parallel arrays with a maximum size of 100. A counter (logCount) keeps track of where to save the next receipt.
 
-📸 Screenshots
+Screenshots
 
 
 Frame 1: <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/964a7204-9f7d-4655-9014-9c31b263d92a" />
